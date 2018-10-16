@@ -419,7 +419,8 @@ The hashes `#` at the beginning of every line comment those lines.  To have the 
 
 ### 👹 Extension
 
-* Clone the repository for these materials to your own machine
+* Clone the repository for these materials to your own machine with this link:
+	* https://github.com/maegul/Intro-to-Git-Workshop-Materials.git
 * Fork the repository to your GitHub account
 	* Edit the file to make it better and make a pull request
 
