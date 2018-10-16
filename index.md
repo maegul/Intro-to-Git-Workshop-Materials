@@ -260,3 +260,95 @@ Word                               | Description
 <span id='highlight'>Fetch<span>    | Related to Pull.  This gets all the relevant information and data from the remote about what needs to updated in the local repo, but does not actually perform the update.  It just checks to see what's needed to give you the option of performing it or not.
 
 
+# Challenges
+
+## 📖 Dear Diary / Captains Log
+
+* Make a New Repository
+* Open your text editor
+* Get sample file  - 
+	* copy and paste from below
+	* See “Sample File” heading below
+* Save it as a .py file to get commenting shortcuts
+	* Cmd/Ctrl + / (usual shortcut)
+* Put your file in your repository
+* Add each function separately and commit separately
+	* Add appropriate commit messages
+
+
+### 👹 Extension
+
+* Make some new changes to the file (anything is fine) that have not yet been committed.   
+	* Using icons around and near the line numbers of the code, can you work out how to commit specific lines only?
+
+* If you have multiple files, each with their own changes, can you work out how to commit only the changes of a single file.
+	* Add another file, by copying the second sample below, to test this out.
+
+
+#### Sample File
+
+These are basic python scripts.  **You don't need to worry about coding in python though!!**  
+
+The hashes `#` at the beginning of every line comment those lines.  To have the same effect as typing, simply uncomment those lines, with either the hot-key in your text editor or by simply deleting.
+
+```python
+# def addition(a, b):
+
+# 	summation = a + b
+
+# 	return summation
+
+
+# def subtraction(a, b):
+
+# 	difference = a - b
+
+# 	return difference
+
+
+# def division(a, b):
+
+# 	quotient = a / b
+
+# 	return quotient
+
+# def multiplication(a, b):
+
+# 	product = a * b
+
+# 	return product
+
+```
+
+#### Second Sample File
+
+```python
+# def bad_addition(a, b):
+
+# 	summation = a + b + 0.002
+
+# 	return summation
+
+
+# def bad_subtraction(a, b):
+
+# 	difference = a - b + 7
+
+# 	return difference
+
+
+# def bad_division(a, b):
+
+# 	quotient = (a+13) / b
+
+# 	return quotient
+
+
+# def bad_multiplication(a, b):
+
+# 	product = a * b + 12
+
+# 	return product
+
+```
+
