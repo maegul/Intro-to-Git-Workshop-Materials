@@ -74,3 +74,45 @@
 	1. Demonstration
 	1. Exercise for you
 
+# How Git Works Pt I
+
+
+<iframe style="margin: auto; height: 80vh;" src="https://slides.com/errollloyd/gitintro/embed#/5" width="100%" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<br>
+
+# How Git Works Pt II
+
+## 📖 Dear Diary / Captains Log	
+
+
+* How your Diary or Log is made:
+	1. Git 
+		<span id='highlight'> Tracks the Changes You've Made </span>
+	1. You're in control of 
+		<span id='highlight'> when a log is made </span>, and 
+		<span id='highlight'>what is written about the work</span>
+
+
+<iframe style="margin: auto; height: 80vh;" src="https://slides.com/errollloyd/gitintro/embed#/7" width="100%" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<br>
+
+
+
+## 🕰 Time Travel
+
+
+
+* <span id='highlight'>Review</span> 
+	any part of the 
+	<span id='highlight'>history</span> 
+	of your work
+* <span id='highlight'>Alter or Undo</span> 
+	some of your past work
+
+
+<iframe style="margin: auto; height: 80vh;" src="https://slides.com/errollloyd/gitintro/embed#/8" width="100%" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<br>
+
+
+
+
