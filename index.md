@@ -352,3 +352,50 @@ The hashes `#` at the beginning of every line comment those lines.  To have the 
 
 ```
 
+## 🕰 Time Travel
+
+* Revert two of the functions you've committed (*they don't have to be the most recent ones*)
+	* Check your file to see that the relevant change has taken place
+
+
+### 👹 Extension
+
+* Delete on of your files and then bring it back
+* Use your history to look at the changes made in each commit.  
+	* Do you feel like you understand the pluses (`+`) and minuses (`-`) in the diff?
+	* Can you work out what the `@@ [numbers] @@` symbols at the top of the diff mean?
+* Can you revert a reversion?
+
+
+## 🌜🌛 Parallel Universes
+
+* Make sure you have two branches.
+	* In one branch, add another function
+	* In the other branch, change a function that already exists
+	* Merge both of these new branches into your master branch
+
+* Make a branch from your master
+	* In the new branch, change a line (any line) to something different.
+	* In the master branch, change the same line to something different again (and different from what you did in the new branch)
+	* Now try to merge them
+	* 👹 <span style="color: #C82023">See if you can work out how to resolve the situation you've created</span>
+		* Can you understand why the problem exists given what you did to create it and what you did in the first part of this challenge?
+
+
+## 🛰 Space Station
+
+* Get GitHub account (github.com)
+* Add it to your desktop app
+* Push your repository to GitHub
+* Let me clone it (paste the link to it in google doc)
+
+
+### 👹 Extension
+
+* Clone the repository for these materials to your own machine
+* Fork the repository to your GitHub account
+	* Edit the file to make it better and make a pull request
+
+
+
+
