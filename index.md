@@ -1,3 +1,28 @@
+
+<style type="text/css">
+
+	h1 {
+		color: #D6865D;
+		border-bottom: 2px solid !important; 
+		margin-top: 45px !important;
+	}
+
+	h2 {
+		color: #c14678;
+		border-bottom: 2px solid !important;
+		margin-top: 35px !important;
+	}
+
+	#highlight {
+		font-weight: bold;
+		color: #358CA6;
+	}
+
+</style>
+
+<iframe style="margin: auto" src="https://slides.com/errollloyd/gitintro/embed" width="100%" height="420" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<br>
+
 [TOC]
 
 # Introduction
