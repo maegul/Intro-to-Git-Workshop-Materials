@@ -399,3 +399,76 @@ The hashes `#` at the beginning of every line comment those lines.  To have the 
 
 
 
+# Resources
+
+## Download Links
+
+[GitHub Desktop App](https://desktop.github.com/)
+
+
+Text Editors:
+
+* [VS Code](https://code.visualstudio.com)
+* [Atom](https://atom.io)
+* [Sublime Text](https://www.sublimetext.com)
+
+
+
+## Additional Tools and Services
+
+[Get Private Repositories on GitHub as student or researcher](https://education.github.com)
+
+* Click the `Join GitHub Education` button
+
+---
+
+* Alternatives to GitHub that offer privacy immediately
+	* [BitBucket](https://bitbucket.org/product)
+	* [GitLab](https://about.gitlab.com)
+	* [GitLab at University Melbourne](https://gitlab.unimelb.edu.au/users/sign_in)
+
+---
+
+**Command Line Git**
+
+[General Installation Instructions](https://resbaz.github.io/intro-git-workshop/)
+[Git for Windows](https://gitforwindows.org/)
+
+
+
+**Other Applications** (Generally more powerful than GitHub Desktop App)
+
+[SourceTree](https://www.sourcetreeapp.com)
+[GitKraken](https://www.gitkraken.com)
+[Sublime Merge](https://www.sublimemerge.com/#light)
+
+
+
+## Other Educational Materials on Git
+
+### Recommended Documentation and Materials
+
+* [Software Carpentry Course Materials on using git](https://swcarpentry.github.io/git-novice/)
+
+* [Official Guide Book](https://git-scm.com/book/en/v2)
+
+
+### Nice Tutorials
+
+* [git - the simple guide](http://rogerdudler.github.io/git-guide/)
+
+* [learn enough git to be dangerous](https://www.learnenough.com/git-tutorial#sec-viewing_the_diff)
+
+* [Interactive Tutorial App](https://github.com/jlord/git-it-electron#what-to-install)
+
+* [Interactive Tutorial Web Page](https://learngitbranching.js.org)
+
+### More thorough guides
+
+* [interactive cheat sheet](http://www.ndpsoftware.com/git-cheatsheet.html)
+
+* [git magic](http://www-cs-students.stanford.edu/%7Eblynn/gitmagic/)
+
+* [A visual git reference](http://marklodato.github.io/visual-git-guide/index-en.html)
+
+* [conversational git](http://blog.anvard.org/conversational-git/)
