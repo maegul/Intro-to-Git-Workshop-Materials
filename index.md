@@ -86,7 +86,7 @@
 
 <div style="display: flex">
 	
-<img style="margin: auto; width: 100%;" src="SpiralPath.png">
+<img style="margin: auto; width: 100%;" src="./SpiralPath.png">
 
 </div>
 
