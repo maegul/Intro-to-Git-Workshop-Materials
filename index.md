@@ -116,3 +116,25 @@
 
 
 
+## 🌜🌛 Parallel Universes
+
+
+* Keep <span id="highlight">independent versions</span> of your project
+* But, can <span id="highlight">split and re-merged</span> whenever you like
+* Perfect for <span id='highlight'>experimental</span> work and <span id='highlight'>collaboration</span>
+
+
+<iframe style="margin: auto; height: 80vh;" src="https://slides.com/errollloyd/gitintro/embed#/9" width="100%" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<br>
+
+
+
+## 🛰 Space Station 
+
+* Free & Online cloud storage
+* Your version control <span id='highlight'>shared and published</span> online
+* GitHub as well as a number of popular alternatives (BitBucket, GitLab, etc)
+
+
+<iframe style="margin: auto; height: 80vh;" src="https://slides.com/errollloyd/gitintro/embed#/10" width="100%" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<br>
