@@ -460,6 +460,7 @@ Text Editors:
 **Command Line Git**
 
 [General Installation Instructions](https://resbaz.github.io/intro-git-workshop/)
+
 [Git for Windows](https://gitforwindows.org/)
 
 
@@ -467,7 +468,9 @@ Text Editors:
 **Other Applications** (Generally more powerful than GitHub Desktop App)
 
 [SourceTree](https://www.sourcetreeapp.com)
+
 [GitKraken](https://www.gitkraken.com)
+
 [Sublime Merge](https://www.sublimemerge.com/#light)
 
 
